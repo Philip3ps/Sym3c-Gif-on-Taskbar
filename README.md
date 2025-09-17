@@ -1,6 +1,7 @@
 # Sym3c Gif on Taskbar
 
-![Sym3c Gif on Taskbar](https://photos.fife.usercontent.google.com/pw/AP1GczMO4__1eXwKu4f1O1dvM-7v_BdGqiv8yfCdmU3IvnI9hrlep4Q1ezry=w333-h333-s-no-gm?authuser=1)
+![Sym3c Gif on Taskbar](<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/3c8763a9-e468-4ebb-b0fa-3c4b7a2f4f6e" />
+)
 
 **Version:** Sym3c9162025v1
 
@@ -88,3 +89,8 @@ This project is a personal passion project by **Philip Sigaton** from the Philip
 ```bash
 git clone https://github.com/yourusername/Sym3cGifOnTaskbar.git
 cd Sym3cGifOnTaskbar
+
+pip install pillow pystray
+
+python Sym3c_GifonTaskbar.py
+
