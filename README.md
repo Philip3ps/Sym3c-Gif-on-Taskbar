@@ -99,6 +99,8 @@ cd Sym3cGifOnTaskbar
 2. Install the required Python dependencies:
 pip install pillow pystray
 
+---
+
 3.Run the app:
 python Sym3c_GifonTaskbar.py
 
