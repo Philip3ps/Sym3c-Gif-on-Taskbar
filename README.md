@@ -1,15 +1,13 @@
-# Sym3c Gif on Taskbar
 <p align="center">
+# Sym3c Gif on Taskbar
 <img width="720" height="173" alt="image" src="https://github.com/user-attachments/assets/c6637d9d-c5ce-4183-bca1-32b31126f2d3" />
-</p>
-
 
 Sym3c Gif on Taskbar
 
 **Version:** Sym3c9162025v1
 
 Sym3c Gif on Taskbar is a fun and easy way to display your favorite GIFs directly on your Windows taskbar. Customize your desktop with animated flair, control playback speed, and access useful quick actions—all in one lightweight app.
-
+</p>
 ---
 
 ## Extended Description
