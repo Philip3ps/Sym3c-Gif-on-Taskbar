@@ -1,7 +1,7 @@
 # Sym3c Gif on Taskbar
 
-![Sym3c Gif on Taskbar]([about.png](<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/88ef3e7b-e22e-4c39-a22b-e4c0b9f60476" />
-))
+![Sym3c Gif on Taskbar](<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/3607d2aa-d1ff-4e58-9fc4-e41c2950194f" />
+)
 
 **Version:** Sym3c9162025v1
 
@@ -76,8 +76,8 @@ This project is a personal passion project by **Philip Sigaton** from the Philip
 
 ## Screenshots
 
-*<img width="295" height="106" alt="image" src="https://github.com/user-attachments/assets/74cde293-f8e5-4828-ac69-23d276678691" />
-*
+<img width="295" height="106" alt="image" src="https://github.com/user-attachments/assets/74cde293-f8e5-4828-ac69-23d276678691" />
+
 
 
 ---
