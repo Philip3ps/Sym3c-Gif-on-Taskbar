@@ -1,6 +1,8 @@
 # Sym3c Gif on Taskbar
+<img width="720" height="173" alt="image" src="https://github.com/user-attachments/assets/c6637d9d-c5ce-4183-bca1-32b31126f2d3" />
 
-![Sym3c Gif on Taskbar]
+
+Sym3c Gif on Taskbar
 
 **Version:** Sym3c9162025v1
 
@@ -89,7 +91,9 @@ This project is a personal passion project by **Philip Sigaton** from the Philip
 git clone https://github.com/yourusername/Sym3cGifOnTaskbar.git
 cd Sym3cGifOnTaskbar
 
+2. Install the required Python dependencies:
 pip install pillow pystray
 
+3.Run the app:
 python Sym3c_GifonTaskbar.py
 
