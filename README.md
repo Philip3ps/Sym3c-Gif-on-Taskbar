@@ -1,6 +1,7 @@
 # Sym3c Gif on Taskbar
 
-![Sym3c Gif on Taskbar](about.png)
+![Sym3c Gif on Taskbar]([about.png](<img width="333" height="333" alt="image" src="https://github.com/user-attachments/assets/88ef3e7b-e22e-4c39-a22b-e4c0b9f60476" />
+))
 
 **Version:** Sym3c9162025v1
 
@@ -75,7 +76,9 @@ This project is a personal passion project by **Philip Sigaton** from the Philip
 
 ## Screenshots
 
-*Screenshots of the GIF on taskbar, speed slider, donate popup, and about section can be included here.*
+*<img width="295" height="106" alt="image" src="https://github.com/user-attachments/assets/74cde293-f8e5-4828-ac69-23d276678691" />
+*
+
 
 ---
 
