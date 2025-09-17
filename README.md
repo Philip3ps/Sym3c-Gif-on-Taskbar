@@ -1,7 +1,7 @@
 # Sym3c Gif on Taskbar
-<center>
+<p align="center">
 <img width="720" height="173" alt="image" src="https://github.com/user-attachments/assets/c6637d9d-c5ce-4183-bca1-32b31126f2d3" />
-<center>
+</p>
 
 
 Sym3c Gif on Taskbar
